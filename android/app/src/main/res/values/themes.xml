@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.CreatorFlowAI" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_bg</item>
+        <item name="android:navigationBarColor">@color/dark_bg</item>
+        <item name="android:windowBackground">@color/dark_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.CreatorFlowAI.Splash" parent="Theme.CreatorFlowAI">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>

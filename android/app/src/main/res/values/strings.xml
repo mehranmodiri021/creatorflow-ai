@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CreatorFlow AI</string>
+    <string name="publisher_name">سیدحمیدموسوی زاده</string>
+    <string name="tagline">Your AI Content Creation Studio</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_studio">AI Studio</string>
+    <string name="nav_planner">Planner</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Features -->
+    <string name="feature_ideas">Idea Generator</string>
+    <string name="feature_hooks">Hook Generator</string>
+    <string name="feature_scripts">Script Writer</string>
+    <string name="feature_captions">Caption Studio</string>
+    <string name="feature_thumbnails">Thumbnail Studio</string>
+    <string name="feature_chat">AI Strategist</string>
+
+    <!-- Monetization -->
+    <string name="plan_free">Free Plan</string>
+    <string name="plan_vip">Creator VIP</string>
+    <string name="unlimited_access">Unlimited AI &amp; No Ads</string>
+</resources>

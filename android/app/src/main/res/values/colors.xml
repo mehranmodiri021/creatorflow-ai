@@ -1,0 +1,11 @@
+<resources>
+    <color name="electric_purple">#8B5CF6</color>
+    <color name="electric_purple_dark">#6D28D9</color>
+    <color name="creator_blue">#2563EB</color>
+    <color name="gold_accent">#FFD700</color>
+    <color name="dark_bg">#090A0F</color>
+    <color name="dark_surface">#131622</color>
+    <color name="dark_surface_variant">#1E2235</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+</resources>
